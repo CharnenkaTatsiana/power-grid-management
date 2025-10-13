@@ -5,7 +5,6 @@
 ## 🚀 Технологии
 
 - Java 11+
-- Spring MVC
 - Hibernate ORM
 - MySQL
 - JSP/JSTL
@@ -20,8 +19,4 @@
 - Админ-панель
 - Аутентификация и авторизация
 
-## 🛠️ Установка и запуск
 
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/ВАШ_ЛОГИН/power-grid-management.git
