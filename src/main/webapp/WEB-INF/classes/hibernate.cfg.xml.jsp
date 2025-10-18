@@ -9,6 +9,7 @@
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/powergrid_management?useSSL=false&amp;serverTimezone=UTC</property>
         <property name="hibernate.connection.username">powergrid_user</property>
         <property name="hibernate.connection.password">powergrid_password</property>
+        <property name="hibernate.hbm2ddl.auto">validate</property>
 
         <!-- MySQL dialect -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
